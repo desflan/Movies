@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using AutoMapper;
-using Autofac;
-using MovieSite.Domain.Entities;
 
 namespace MovieSite.Services.DTO
 {
